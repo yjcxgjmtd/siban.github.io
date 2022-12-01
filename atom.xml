@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.siban.cf</id>
+    <title>四班岁月</title>
+    <updated>2022-12-01T09:00:42.495Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://www.siban.cf"/>
+    <link rel="self" href="https://www.siban.cf/atom.xml"/>
+    <subtitle>欢迎各位同学和家长访问四班岁月官网！</subtitle>
+    <logo>https://www.siban.cf/images/avatar.png</logo>
+    <icon>https://www.siban.cf/favicon.ico</icon>
+    <rights>All rights reserved 2022, 四班岁月</rights>
+    <entry>
+        <title type="html"><![CDATA[第一期二维码活动]]></title>
+        <id>https://www.siban.cf/post/di-yi-qi-er-wei-ma-huo-dong/</id>
+        <link href="https://www.siban.cf/post/di-yi-qi-er-wei-ma-huo-dong/">
+        </link>
+        <updated>2022-12-01T01:10:05.000Z</updated>
+        <content type="html"><![CDATA[<p>请您阅读：如遇到任何问题请及时联系赵天昊！如果二维码照片无法加载，请刷新此页面！评论出现问题请第一时间联系赵天昊。评论后将无法删除，请谨慎留言！删除评论请联系赵天昊！如需上传照片至评论区请联系赵天昊技术支持！</p>
+<img src="https://i.postimg.cc/kgCT2NxN/63881b3820742.jpg"/>
+<div id="textInputViewer" onclick="gainFocus()" onmouseover="this.style.cursor='text'" onmouseout="this.style.cursor='auto'" style="font-family: verdana, sans-serif; font-size: 12px; display: block; cursor: auto; text-align: center;">照片①</div>
+<img src="https://i.postimg.cc/JzQPZyqf/6388198f7c50e.jpg"/>
+<div id="textInputViewer" onclick="gainFocus()" onmouseover="this.style.cursor='text'" onmouseout="this.style.cursor='auto'" style="font-family: verdana, sans-serif; font-size: 12px; display: block; cursor: auto; text-align: center;">照片②</div>
+<img src="https://i.postimg.cc/y6wQHCxb/63881b37e043d.jpg"/>
+<div id="textInputViewer" onclick="gainFocus()" onmouseover="this.style.cursor='text'" onmouseout="this.style.cursor='auto'" style="font-family: verdana, sans-serif; font-size: 12px; display: block; cursor: auto; text-align: center;">照片③</div>
+<img src="https://i.postimg.cc/rFxhyZtF/63881b3852aaa.jpg"/>
+<div id="textInputViewer" onclick="gainFocus()" onmouseover="this.style.cursor='text'" onmouseout="this.style.cursor='auto'" style="font-family: verdana, sans-serif; font-size: 12px; display: block; cursor: auto; text-align: center;">照片④</div>
+<img src="https://i.postimg.cc/VNL4RYZd/6388198f73e0d.jpg"/>
+<div id="textInputViewer" onclick="gainFocus()" onmouseover="this.style.cursor='text'" onmouseout="this.style.cursor='auto'" style="font-family: verdana, sans-serif; font-size: 12px; display: block; cursor: auto; text-align: center;">照片⑤</div>
+<img src="https://i.postimg.cc/FRwZN0rL/63881b3858b49.png"/>
+<div id="textInputViewer" onclick="gainFocus()" onmouseover="this.style.cursor='text'" onmouseout="this.style.cursor='auto'" style="font-family: verdana, sans-serif; font-size: 12px; display: block; cursor: auto; text-align: center;">照片⑥</div>
+<img src="https://i.postimg.cc/QM4mYRvS/63881b382203f.png"/>
+<div id="textInputViewer" onclick="gainFocus()" onmouseover="this.style.cursor='text'" onmouseout="this.style.cursor='auto'" style="font-family: verdana, sans-serif; font-size: 12px; display: block; cursor: auto; text-align: center;">照片⑦</div>
+<img src="https://i.postimg.cc/rsW9mzsY/63881b38552c6.jpg"/>
+<div id="textInputViewer" onclick="gainFocus()" onmouseover="this.style.cursor='text'" onmouseout="this.style.cursor='auto'" style="font-family: verdana, sans-serif; font-size: 12px; display: block; cursor: auto; text-align: center;">照片⑧</div>
+<img src="https://i.postimg.cc/vB4zJ0sy/63881b382352e.jpg"/>
+<div id="textInputViewer" onclick="gainFocus()" onmouseover="this.style.cursor='text'" onmouseout="this.style.cursor='auto'" style="font-family: verdana, sans-serif; font-size: 12px; display: block; cursor: auto; text-align: center;">照片⑨</div>]]></content>
+    </entry>
+</feed>
